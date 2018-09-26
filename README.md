@@ -16,3 +16,5 @@ Compare working Directory / Staging / Repo changes
 ## Modification 03
 BRANCHES
 
+## Modification 04
+Changed for "git rebase"
