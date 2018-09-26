@@ -9,9 +9,10 @@
 
 # THANKS
 
-    <name>
+    A Cloud Guru
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
-    jQuery, Modernizr
+    HTML5, CSS3, PHP
+    jQuery, Modernizr, AJAX
+    Microsoft Azure
