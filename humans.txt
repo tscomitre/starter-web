@@ -3,8 +3,9 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
     Thiago Comitre -- Solutions Architect | DevOps Engineer -- @tscomitre
+    Sacon Group
+    Kumolus
 
 # THANKS
 
