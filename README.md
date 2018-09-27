@@ -18,3 +18,6 @@ BRANCHES
 
 ## Modification 04
 Changed for "git rebase"
+
+## Modification 05
+Changed for "git stash"
