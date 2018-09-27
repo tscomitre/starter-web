@@ -3,7 +3,7 @@
 
 # TEAM
 
-    Thiago Comitre -- Solutions Architect | DevOps Engineer -- @tscomitre
+    AWS Solutions Architect | DevOps Engineer
     Sacon Group
     Kumolus
 
