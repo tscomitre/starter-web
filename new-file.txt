@@ -1,0 +1,2 @@
+This is just a new file for git stash
+Stash modified / untracked / ignored files
